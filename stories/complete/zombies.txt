@@ -1,0 +1,60 @@
+You are in a dark room.
+2: Search the room.
+3: Make some noise.
+4: Turn on your flashlight.
+3
+
+You hear a rustling across the room.
+1: Make another choice.
+1
+
+You are in a dark room.
+2: Search the room.
+3: Make some noise.
+4: Turn on your flashlight.
+4
+
+You are standing in a small stone room. There is door to the north
+5: Open the door.
+1: Make another choice.
+5
+
+You see a hallway stretching west and east into the darkness.
+6: Go west.
+7: Go east.
+6
+
+You enter a large room with a fountain and a door to the west.
+8: Examine the fountain.
+9: Open the western door.
+9
+
+The western door is locked.
+6: Choose another action.
+6
+
+You enter a large room with a fountain and a door to the west.
+8: Examine the fountain.
+9: Open the western door.
+8
+
+There is a rusted key in the fountain.
+6: Choose another action.
+10: Use the key to open the western door.
+10
+
+You enter a corridor that leads to intersection of passageways.
+11: Go west.
+12: Go North.
+13: Go South.
+12
+
+You see daylight at the end of the passageway, as well as 3 zombies blocking your escape.
+14: Run through the zombies to your freedom!
+10: Return to the intersection.
+14
+
+You manage to get past the zombies, but you are now scarred for life!
+-2: You escaped with your life.
+
+Thanks for playing!

@@ -1,0 +1,21 @@
+You are in a dark room. : Search the room. = 2 | Make some noise. = 3 | Turn on your flashlight. = 4
+You find nothing in the darkness. : Make another choice. = 1
+You hear a rustling across the room. : Make another choice. = 1
+You are standing in a small stone room. There is door to the north : Open the door. = 5 | Make another choice. = 1
+You see a hallway stretching west and east into the darkness. : Go west. = 6 | Go east. = 7
+You enter a large room with a fountain and a door to the west. : Examine the fountain. = 8 | Open the western door. = 9
+A zombie attacks you in the crowded corridor. : You are now dead. = -1
+There is a rusted key in the fountain. : Choose another action. = 6 | Use the key to open the western door. = 10
+The western door is locked. : Choose another action. = 6
+You enter a corridor that leads to intersection of passageways. : Go west. = 11 | Go North. = 12 | Go South. = 13
+You see daylight at the end of the passageway, as well as an army zombies blocking your escape. There is a door to your right. : Run through the zombies to your freedom! = 18 | Open the door to your right. = 19 | Return to the intersection. = 17
+You see daylight at the end of the passageway, as well as 3 zombies blocking your escape. : Run through the zombies to your freedom! = 14 | Return to the intersection. = 10
+You reach a dead-end in the dusty passageway. : Search the dead-end. = 15 | Return to the intersection. = 10
+You manage to get past the zombies, but you are now scarred for life! : You escaped with your life. = -2
+You discover a hammer on the ground. : Take the hammer. = 16 | Return to the intersection. = 10
+You now have a hammer. : Return to the intersection. = 10
+You return to the intersection of passageways. : Go west. = 18 | Go North. = 12
+The army of zombies overcome you. : You are now dead. = -1
+You see a small stone room. : Search the room. = 20 | Return to the hallway. = 11
+You notice a small crack in the stone wall. There is light beaming in through the crack. : Use the hammer on the wall. = 21 | Return to the hallway. = 11
+You escape the zombie infested rooms into the daylight. : You escaped with your life. = -2

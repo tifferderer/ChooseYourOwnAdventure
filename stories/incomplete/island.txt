@@ -1,0 +1,24 @@
+You are stranded on an island : Try to make a signal. = 2 | Into the forest. = 3 | Walk the coastline. = 4
+No one is there to see your SOS. : Make another choice. = 1
+You hear a rustling in the bushes. : Explore further. = 6 | Go back. = 1
+After hours of walking, you think you see a ship. : Must be a mirage; maybe you should rest. = 5 | Try to wave down the boat. = 2
+It is getting dark... : Go into the forest to try to find shelter. = 6 | Make a fire and sleep on the beach. = 7
+You find footsteps and remnants of what looks like to be an old fishing net : Follow the footsteps. = 8 | Go towards higher ground. = 9
+Your search plane found you from the smoke! : You have saved yourself. = -2
+You feel like you are being watched. : Turn around. = 9 | Keep going. = 10
+Have you been walking in circles? : Choose another action. = 8
+Looks like you've stumbled across remnants of a campsite! : Stay and find supplies. = 11 | Go towards higher ground. = 12 | Make noise. = 14
+You find a pocket knife and a pair of gloves. : Grab the items and go = 12 | Keep searching. = 19
+Is that a volcano in the distance? : Towards the top! = 13 | Maybe its time to head back to the old campsite. = 18
+It is getting too steep to climb. : Time to make shelter. = 15 | Start walking laterally. = 18
+Someone has found you, but I don't think they are friendly! : You have been murdered. = -1
+It is dark now. : Find a nice branch up high in a tree. = 16 | A few leaves on the ground will be fine for one night. = 14
+You made it through the night... : Try to find the peak. = 18 | Try to find food and water = 17
+You manage to find edible plants and a brook nearby. : Set up a fire pit to boil water. = 22 | Eat up and follow the brook downstream. = 23
+Did you just hear laughter? : Run towards the laughing = 14 | You are going crazy, let's go to the highest peak. = 20 | Return to the old shelter. = 21
+You find a two-way radio! : Smart find! You get a radio signal and call for help. = -2
+Half a day later, you made it to the top. : Lets try to make a smoke signal. = 7 | Return down the mountain. = 18
+Someone is coming towards you! : Get ready with your knife. = 22 | Run away. = 23
+Maybe you could get used to this. : You now have your own island! = -2
+You are back to the beach all alone. : Maybe you should have waited there all along. Make a fire. = 7 | Look for supplies. = 24
+You find a working fishing net and teach yourself how to fish. : Makeshift a hammock. = 22

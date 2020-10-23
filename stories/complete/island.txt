@@ -1,0 +1,20 @@
+You are stranded on an island
+2: Try to make a signal.
+3: Into the forest.
+4: Walk the coastline.
+4
+
+After hours of walking, you think you see a ship.
+5: Must be a mirage; maybe you should rest.
+2: Try to wave down the boat.
+5
+
+It is getting dark...
+6: Go into the forest to try to find shelter.
+7: Make a fire and sleep on the beach.
+7
+
+Your search plane found you from the smoke!
+-2: You have saved yourself.
+
+Thanks for playing!
